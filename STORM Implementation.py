@@ -1,4 +1,4 @@
-import jaxedit
+import jax
 import jax.numpy as jnp
 from PIL import Image
 from jaxmarl import make
